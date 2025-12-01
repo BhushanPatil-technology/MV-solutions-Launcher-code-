@@ -1,0 +1,15 @@
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\CustomLauncher.exe
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\CustomLauncher.deps.json
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\CustomLauncher.runtimeconfig.json
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\CustomLauncher.dll
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\ref\CustomLauncher.dll
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\bin\Release\net6.0-windows\win-x64\CustomLauncher.pdb
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.AssemblyInfoInputs.cache
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.AssemblyInfo.cs
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.dll
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\ref\CustomLauncher.dll
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.pdb
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Release\net6.0-windows\win-x64\CustomLauncher.genruntimeconfig.cache

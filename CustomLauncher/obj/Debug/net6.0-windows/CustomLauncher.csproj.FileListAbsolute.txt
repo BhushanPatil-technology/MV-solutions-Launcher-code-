@@ -1,0 +1,5 @@
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Debug\net6.0-windows\CustomLauncher.csproj.AssemblyReference.cache
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Debug\net6.0-windows\CustomLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Debug\net6.0-windows\CustomLauncher.AssemblyInfoInputs.cache
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Debug\net6.0-windows\CustomLauncher.AssemblyInfo.cs
+C:\Users\Administrator\.gemini\antigravity\scratch\CustomLauncher\obj\Debug\net6.0-windows\CustomLauncher.csproj.CoreCompileInputs.cache
